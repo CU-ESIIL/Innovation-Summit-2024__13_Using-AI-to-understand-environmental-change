@@ -72,7 +72,8 @@ Please share the following information about yourself. Each team member should t
   - **Expertise:** [IT Specialist Rosebud Sioux Tribe]
   - **Environmental Data Science Superpower:** [learning more about data science, ]
   - **Reflection on Polarities Exercise:** [feel more alive and have a better sense being outdoors. traditional knowledge]
-
+  
+  - --- 
   - **Name:** William Blacksmith
   - **Pronouns:** He/Him
   - **Expertise:** IT Specialist/Network Administrator
