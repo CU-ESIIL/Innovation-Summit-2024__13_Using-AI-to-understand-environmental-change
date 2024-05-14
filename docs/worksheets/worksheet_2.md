@@ -81,15 +81,6 @@ Please share the following information about yourself. Each team member should t
   - **Reflection on Polarities Exercise:** Shy and keep to myself
 
   - ---
-  - **Name:** [Your Name]
-  - **Pronouns:** [Your Pronouns]
-  - **Expertise:** [Your Expertise]
-  - **Environmental Data Science Superpower:** [Describe your unique skill or interest in environmental data science]
-  - **Reflection on Polarities Exercise:** [Share one thing you observed about yourself]
-
-  ---
-  - Continue adding more team members following the same format, with a line break after each person.
-  ---
 ## Research Question: Innovation for Inclusion or Computation (approx. time: 5-10 mins)
 Write the research question your team selected in the space below. Feel free to revise the original question.
 
@@ -105,7 +96,7 @@ Craft a catchy title for your team’s project. Think of something that would gr
 ## Promoting Resilience and Adaptation
 Describe how your proposed project aligns with the Summit's themes of resilience and adaptation. Please provide 1-2 sentences that clearly connect your project's goals or methods to these themes.
 
-- [Insert your response here]
+- Using machine learning (AI) approaches to answer novel, difficult questions about how combined factors influence key ecosystem metrics is an important aspect of understanding complex environmental systems. Understanding these systems is crucial to managing them sustainably and increasing their resilience. Machine learning offers an approach to model and understand these complexities, paving the way for action. (PLEASE REVISE AS YOU SEE FIT - I'M TIRED)
 
 
 ## Choosing Big Data Sets
