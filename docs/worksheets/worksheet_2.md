@@ -13,9 +13,9 @@ Please share the following information about yourself. Each team member should t
 
   - **Name:** Karem Meza
   - **Pronouns:** She
-  - **Expertise:** Remote Sensing 
-  - **Environmental Data Science Superpower:** [Energy fluxes]
-  - **Reflection on Polarities Exercise:** [Share one thing you observed about yourself]
+  - **Expertise:** Remote Sensing and water flux 
+  - **Environmental Data Science Superpower:** Machine learning 
+  - **Reflection on Polarities Exercise:** Stay at comfort zone
 
   ---
   - **Name:** Kimberly Thompson
