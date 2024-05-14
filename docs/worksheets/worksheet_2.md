@@ -18,11 +18,11 @@ Please share the following information about yourself. Each team member should t
   - **Reflection on Polarities Exercise:** [Share one thing you observed about yourself]
 
   ---
-  - **Name:** [Your Name]
-  - **Pronouns:** [Your Pronouns]
-  - **Expertise:** [Your Expertise]
-  - **Environmental Data Science Superpower:** [Describe your unique skill or interest in environmental data science]
-  - **Reflection on Polarities Exercise:** [Share one thing you observed about yourself]
+  - **Name:** Kimberly Thompson
+  - **Pronouns:** she/her
+  - **Expertise:** ecological modelling, time series analysis, spatial distributions
+  - **Environmental Data Science Superpower:** quantitative analysis
+  - **Reflection on Polarities Exercise:** My answers always depended on context
 
   ---
   - **Name:** [Your Name]
