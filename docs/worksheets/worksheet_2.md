@@ -93,13 +93,13 @@ Please share the following information about yourself. Each team member should t
 ## Research Question: Innovation for Inclusion or Computation (approx. time: 5-10 mins)
 Write the research question your team selected in the space below. Feel free to revise the original question.
 
-- [Insert research question here]
+- How do wildfire severity, human activity, and environmental factors effect water quality downstream from fire sites?
 
 
 ## Project Title (approx. time: 5-10 mins)
 Craft a catchy title for your team’s project. Think of something that would grab attention at a conference or in a headline.
 
-- [Insert title here]
+- Wildfire AI 
 
 
 ## Promoting Resilience and Adaptation
