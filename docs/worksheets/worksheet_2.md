@@ -79,6 +79,14 @@ Please share the following information about yourself. Each team member should t
   - **Expertise:** IT Specialist/Network Administrator
   - **Environmental Data Science Superpower:** No Superpower in Data Science, But a fast learner
   - **Reflection on Polarities Exercise:** Shy and keep to myself
+  
+  - --- 
+  - **Name:** Nathan Korinek
+  - **Pronouns:** He/Him
+  - **Expertise:** ML/NN, big data, data synthesis, python, wildfire
+  - **Environmental Data Science Superpower:** I have taught and used python to tackle large datasets and find meaningful results
+  - **Reflection on Polarities Exercise:** Not AS shy as I thought
+
 
   - ---
 ## Research Question: Innovation for Inclusion or Computation (approx. time: 5-10 mins)
