@@ -79,7 +79,7 @@ Please share the following information about yourself. Each team member should t
   - **Expertise:** IT Specialist/Network Administrator
   - **Environmental Data Science Superpower:** No Superpower in Data Science, But a fast learner
   - **Reflection on Polarities Exercise:** Shy and keep to myself
-  - 
+
   - ---
   - **Name:** [Your Name]
   - **Pronouns:** [Your Pronouns]
