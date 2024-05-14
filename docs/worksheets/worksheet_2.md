@@ -25,11 +25,11 @@ Please share the following information about yourself. Each team member should t
   - **Reflection on Polarities Exercise:** My answers always depended on context
 
   ---
-  - **Name:** [Your Name]
-  - **Pronouns:** [Your Pronouns]
-  - **Expertise:** [Your Expertise]
-  - **Environmental Data Science Superpower:** [Describe your unique skill or interest in environmental data science]
-  - **Reflection on Polarities Exercise:** [Share one thing you observed about yourself]
+  - **Name:** Evan Gallant
+  - **Pronouns:** he/him
+  - **Expertise:** Sustainable food systems, but moreso the social side 
+  - **Environmental Data Science Superpower:** N/A, but an interest in connecting people with insights that can be gained from applying ML to remote sensing data
+  - **Reflection on Polarities Exercise:** Flip flopped compared to what I would have answered a couple years ago
 
   ---
   - **Name:** [Your Name]
