@@ -73,13 +73,12 @@ Please share the following information about yourself. Each team member should t
   - **Environmental Data Science Superpower:** [learning more about data science, ]
   - **Reflection on Polarities Exercise:** [feel more alive and have a better sense being outdoors. traditional knowledge]
 
-  - ---
-  - **Name:** [Your Name]
-  - **Pronouns:** [Your Pronouns]
-  - **Expertise:** [Your Expertise]
-  - **Environmental Data Science Superpower:** [Describe your unique skill or interest in environmental data science]
-  - **Reflection on Polarities Exercise:** [Share one thing you observed about yourself]
-
+  - **Name:** William Blacksmith
+  - **Pronouns:** He/Him
+  - **Expertise:** IT Specialist/Network Administrator
+  - **Environmental Data Science Superpower:** No Superpower in Data Science, But a fast learner
+  - **Reflection on Polarities Exercise:** Shy and keep to myself
+  - 
   - ---
   - **Name:** [Your Name]
   - **Pronouns:** [Your Pronouns]
