@@ -11,14 +11,6 @@ Our team is hoping to answer the question of how wildfire severity, human, and o
 
 Specifically, we ask: How does wildfire severity alongside human and environmental factors effect downstream water quality?
 
-## Dataset Ideas
-
-- MTBS
-- FIRED
-- USGS Stream gauge
-- DB Hydro
-- NLCD
-
 ## Specific Goals
 
 - Publish a paper on our work
