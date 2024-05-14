@@ -84,7 +84,7 @@ Please share the following information about yourself. Each team member should t
   - **Name:** Nathan Korinek
   - **Pronouns:** He/Him
   - **Expertise:** ML/NN, big data, data synthesis, python, wildfire
-  - **Environmental Data Science Superpower:** I have taught and used python to tackle large datasets and find meaningful results
+  - **Environmental Data Science Superpower:** I have used python to tackle large datasets and find meaningful results in collaboration with many others
   - **Reflection on Polarities Exercise:** Not AS shy as I thought
 
 
