@@ -1,11 +1,11 @@
-site_name: 'ESIIL Innovation Summit 2024'
-site_description: 'Summit 2024'
+site_name: 'ESIIL Innovation Summit 2024 Group 13'
+site_description: 'Summit 2024 Group 13'
 site_author: ESIIL staff
-site_url: https://cu-esiil.github.io/innovation-summit-2024
+site_url: https://cu-esiil.github.io/innovation-summit-2024-group-13
 
 # Repository
-repo_name: Innovation-Summit-2024
-repo_url: https://github.com/CU-ESIIL/Innovation-Summit-2024
+repo_name: Innovation-Summit-2024__13_Using-AI-to-understand-environmental-change
+repo_url: https://github.com/CU-ESIIL/Innovation-Summit-2024-group-13
 edit_uri: edit/main/docs/
 # Copyright
 copyright: 'Copyright &copy; 2024 University of Colorado Boulder'
