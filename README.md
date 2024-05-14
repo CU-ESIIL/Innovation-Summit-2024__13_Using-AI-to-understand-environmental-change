@@ -1,13 +1,29 @@
 [![DOI](https://zenodo.org/badge/800258296.svg)](https://zenodo.org/doi/10.5281/zenodo.11188987) 
 
-# [Your Team Name]
+# Environmental & human wildfire AI
 
-Welcome to the **[Your Team Name]** repository, an integral part of ESIIL and Earth Lab's Forest Carbon Codefest. This repository is the central hub for our team, encompassing our project overview, team member information, codebase, and more...
+Welcome to the **Environmental & human wildfire AI** repository, an integral part of ESIIL and Earth Lab's Forest Carbon Codefest. This repository is the central hub for our team, encompassing our project overview, team member information, codebase, and more...
 
 #practice edit
 
 ## Our Project
-[Provide a brief overview of your project here.
+Our team is hoping to answer the question of how wildfire severity, human, and other environmental factors effect down stream water quality. We hope to use AI to combine many disparate datasets and use those to predict water quality post-fire. 
+
+Specifically, we ask: How does wildfire severity alongside human and environmental factors effect downstream water quality?
+
+## Dataset Ideas
+
+- MTBS
+- FIRED
+- USGS Stream gauge
+- DB Hydro
+- NLCD
+
+## Specific Goals
+
+- Publish a paper on our work
+- Practice and utiliza multiple machine learning approaches
+- Find meaningful results
 
 ## Documentation
 - Access detailed documentation on our [GitHub Pages site](https://your-gh-pages-url/).
