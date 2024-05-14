@@ -113,9 +113,18 @@ Explore potential data sets for your project's topic from the [data library](htt
 
 ### Draft Potential Data Sets
   - **System Being Perturbed/Disrupted:**
-    - [List all potential data sets here]
+    - Water:
+    -   USGS Stream Guage data
+    -   DB Hydro
   - **Perturbator/Disrupter:**
-    - [List all potential data sets here]
+    - - Fire:
+    -   MTBS (Monitoring Trends in Burn Severity)
+    -   FIRED
+    - Water:
+    -   USGS Stream Guage data
+    -   DB Hydro
+    - Human activity:
+    -   NLCD (National land cover database)
 
 ### Final Choice
   - **System Being Perturbed/Disrupted (Final Choice):**
