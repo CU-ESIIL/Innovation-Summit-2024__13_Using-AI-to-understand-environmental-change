@@ -32,6 +32,13 @@ Please share the following information about yourself. Each team member should t
   - **Reflection on Polarities Exercise:** Flip flopped compared to what I would have answered a couple years ago
 
   ---
+  - **Name:** Cove Sturtevant
+  - **Pronouns:** he/him
+  - **Expertise:** biometeorology, data science
+  - **Environmental Data Science Superpower:** Centralized code
+  - **Reflection on Polarities Exercise:** I gesture a lot
+
+  ---
   - **Name:** [Your Name]
   - **Pronouns:** [Your Pronouns]
   - **Expertise:** [Your Expertise]
