@@ -60,11 +60,11 @@ Please share the following information about yourself. Each team member should t
   - **Reflection on Polarities Exercise:** I love short emails
 
   - ---
-  - **Name:** [Your Name]
-  - **Pronouns:** [Your Pronouns]
-  - **Expertise:** [Your Expertise]
-  - **Environmental Data Science Superpower:** [Describe your unique skill or interest in environmental data science]
-  - **Reflection on Polarities Exercise:** [Share one thing you observed about yourself]
+  - **Name:** Youmi Oh
+  - **Pronouns:** She/her
+  - **Expertise:** Greenhouse gas monitoring and modeling 
+  - **Environmental Data Science Superpower:** atmosphere and biosphere modeling
+  - **Reflection on Polarities Exercise:** I need to learn how to stand silence :)
 
   - ---
   - **Name:** [Your Name]
