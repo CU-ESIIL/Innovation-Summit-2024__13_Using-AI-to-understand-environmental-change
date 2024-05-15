@@ -137,9 +137,10 @@ Intensity - how hot the fire burned
 
 ### Final Choice
   - **System Being Perturbed/Disrupted (Final Choice):**
-    - USGS Stream Gauge data - water quality
+    - USGS Stream Gauge data - for water quality
+    - NHD (National Hydrologic Dataset) - for river confluences and boundaries
   - **Perturbator/Disrupter (Final Choice):**
-    - [Indicate your final selected data set here]
+    - MTBS - for burn severity
 
 
 
