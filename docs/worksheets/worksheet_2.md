@@ -137,7 +137,7 @@ Intensity - how hot the fire burned
 
 ### Final Choice
   - **System Being Perturbed/Disrupted (Final Choice):**
-    - [Indicate your final selected data set here]
+    - USGS Stream Gauge data - water quality
   - **Perturbator/Disrupter (Final Choice):**
     - [Indicate your final selected data set here]
 
@@ -157,7 +157,7 @@ Select one representative from your group to present your proposed project. For 
 - **Project Title:**
   - Wildfire AI
 - **Research Question:**
-  - - How do wildfire severity, human activity, and environmental factors effect water quality downstream from fire sites?
+  - How do wildfire severity, human activity, and environmental factors effect water quality downstream from fire sites?
 - **Selected Data Sets:**
   - Still finalizing
       
