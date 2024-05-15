@@ -116,7 +116,9 @@ Explore potential data sets for your project's topic from the [data library](htt
     - USGS Stream Gauge data - water quality
     - DB Hydro (is this only for Florida?)
   - **Perturbator/Disrupter:**
-    - *Fire - severity*:
+    - *Fire - severity, DNBI/DNBR*:
+    - In general, comparing remote sensing data from before and after the fire
+    - *Fire - extent*:
     - MTBS (Monitoring Trends in Burn Severity)
     - FIRED
     - *Water*:
