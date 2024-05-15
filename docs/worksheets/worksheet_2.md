@@ -112,18 +112,23 @@ Explore potential data sets for your project's topic from the [data library](htt
 
 ### Draft Potential Data Sets
   - **System Being Perturbed/Disrupted:**
-    - Water:
-    -   USGS Stream Guage data
-    -   DB Hydro
+    - *Water*:
+    - USGS Stream Gauge data - water quality
+    - DB Hydro (is this only for Florida?)
   - **Perturbator/Disrupter:**
-    - - Fire:
-    -   MTBS (Monitoring Trends in Burn Severity)
-    -   FIRED
-    - Water:
-    -   USGS Stream Guage data
-    -   DB Hydro
-    - Human activity:
-    -   NLCD (National land cover database)
+    - *Fire - severity*:
+    - MTBS (Monitoring Trends in Burn Severity)
+    - FIRED
+    - *Water*:
+    - USGS Stream Guage data
+    - DB Hydro
+    - *Human activity*:
+    - NLCD (National land cover database)
+    - *Other*:
+    - Looking for meteorological, soil, vegetation (NDVI), ecosystem type
+   
+Severity - how it affects the area (this is the metric we want)
+Intensity - how hot the fire burned
 
 ### Final Choice
   - **System Being Perturbed/Disrupted (Final Choice):**
