@@ -10,10 +10,8 @@ Select one or more people from your group to give a final report back. You will 
 - **Research Question:**
     - [Insert research question here]
 - **One interesting graphic/finding:**
-#### Visualizing wildfires in the study area
-![image](https://github.com/CU-ESIIL/Innovation-Summit-2024__13_Using-AI-to-understand-environmental-change/assets/124633666/eac0f872-35d4-40e0-8994-f1e0698a3d29)
-#### Visualizing where water quality sampling sites are in the study area
-![image](https://github.com/CU-ESIIL/Innovation-Summit-2024__13_Using-AI-to-understand-environmental-change/assets/124633666/86010333-bb1c-4e4a-a07b-f9f2c3ea15e0)
+### Visualizing recent fires and available water quality sampling sites within the study area:
+![image](https://github.com/CU-ESIIL/Innovation-Summit-2024__13_Using-AI-to-understand-environmental-change/assets/124633666/55154320-46c6-4cf5-92e8-e16327c49471)
 
 - **What are you thinking about doing next with your team? Long-term, short-term?**
     - [Insert response here]
