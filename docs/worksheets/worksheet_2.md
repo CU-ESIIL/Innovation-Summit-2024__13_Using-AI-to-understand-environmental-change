@@ -3,6 +3,12 @@
 ## Instructions
 Work through the prompts in order. Please use a decision-making method “to decide” before moving to a new section of the activity.  
 
+## Brainstorming pictures
+![image](https://github.com/CU-ESIIL/Innovation-Summit-2024__13_Using-AI-to-understand-environmental-change/assets/124633666/e542d5c1-0681-42f1-99b3-fb958d060604)
+![image](https://github.com/CU-ESIIL/Innovation-Summit-2024__13_Using-AI-to-understand-environmental-change/assets/124633666/2f5ad7b5-1656-4d65-8018-8fd7f2c6ba58)
+![image](https://github.com/CU-ESIIL/Innovation-Summit-2024__13_Using-AI-to-understand-environmental-change/assets/124633666/0c310fbf-eace-411c-b1d6-59a53540f594)
+
+
 ## Day 1 Objectives
 1. Get to know your group members.
 2. Decide on a research question and project title.
