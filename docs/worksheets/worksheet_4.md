@@ -22,7 +22,7 @@ Motivation: Using machine learning (AI) approaches to answer novel, difficult qu
 ### Visualizing a sample watershed:
 ![image](https://github.com/CU-ESIIL/Innovation-Summit-2024__13_Using-AI-to-understand-environmental-change/assets/124633666/9847752c-8dcc-4f49-a4a4-622298dd7065)
 
-- Next technical step: use hydrological data to find water sampling sites that are downstream of fire sites
+*Next technical step: use hydrological data to find water sampling sites that are downstream of fire sites*
 
 
 - **What are you thinking about doing next with your team? Long-term, short-term?**
