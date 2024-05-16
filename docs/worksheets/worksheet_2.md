@@ -111,6 +111,8 @@ Describe how your proposed project aligns with the Summit's themes of resilience
 Explore potential data sets for your project's topic from the [data library](https://cu-esiil.github.io/data-library/). List your options below, organizing them by whether they represent the system you're studying (e.g., deciduous forests) or the disruption to it (e.g., wildfire). Then discuss your choices and indicate your final selections.
 
 https://docs.google.com/document/d/10KbRaTRBYmO_Uwj4yUQRmzmvxG0NyPjgYAIZjx5g3Mg/edit?usp=sharing
+![Flowchart (1)](https://github.com/CU-ESIIL/Innovation-Summit-2024__13_Using-AI-to-understand-environmental-change/assets/168017211/33c1b4ef-e25d-4fce-ad80-8a8cf6bc36da)
+
 
 ### Draft Potential Data Sets
   - **System Being Perturbed/Disrupted:**
