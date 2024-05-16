@@ -6,24 +6,34 @@
 
     How can AI be leveraged to understand environmental changes and predict ecosystem responses?
 
-## Day 2 Report Back
-Day 2 report-back questions are about the team *process*. We are interested in your team’s unique experience. Below are some prompts you might consider. You don't need to address all of them - choose which ones you want to present. Please limit your reflection to 2-3 mins.  
+## Day 3 Report Back
+- **Project Title:**
+    - Wildfire AI
+- **Research Question:**
+    - How do wildfire severity, human activity, and environmental factors effect water quality downstream from fire sites?
+ 
+Motivation: Using machine learning (AI) approaches to answer novel, difficult questions about how combined factors influence key ecosystem metrics is an important aspect of understanding complex environmental systems. Understanding these systems is crucial to managing them sustainably and increasing their resilience. Machine learning offers an approach to model and understand these complexities, paving the way for action. 
 
-1. **What worked well for your team?**
-     - Consensus
-     - Team work
-     - Communication
-     - Sturcture
-     - Interesting project idea which stemmed from collaboration
-     - We learnt a lot!
-3. **What’s one thing you would change?**
-     - We had good ideas, but not enough time to implement them in the way we wanted
-     - Keeping a throughline
-     - More realistic scoping to allow time to create tangible results
-     - Get into complex tasks/systems more efficiently
-5. **Did your group ever have an “ah-ha” moment?  What led up to that moment?**
-     - We were on course to get there but needed more time
-     - More data exploration = future ah-ha moment??
-7. **Did your group experience the groan zone?  What is one tip you want to share with future groups at the Summit about getting through the groan zone?**
-     - Yes! We hit the scoping/brainstorming groan zone on day 1, and are entered the data exploration/understanding groan zone
-     - What helped?: Simplification --> pushing towards convergence in order to move things along
+- **One interesting graphic/finding:**
+### Systems diagram:
+![image](https://github.com/CU-ESIIL/Innovation-Summit-2024__13_Using-AI-to-understand-environmental-change/assets/124633666/fdcb852d-e15b-46ed-a319-187b3253162d)
+
+### Visualizing recent fires and available water quality sampling sites within the study area:
+![image](https://github.com/CU-ESIIL/Innovation-Summit-2024__13_Using-AI-to-understand-environmental-change/assets/124633666/55154320-46c6-4cf5-92e8-e16327c49471)
+
+### Visualizing a sample watershed:
+![image](https://github.com/CU-ESIIL/Innovation-Summit-2024__13_Using-AI-to-understand-environmental-change/assets/124633666/9847752c-8dcc-4f49-a4a4-622298dd7065)
+
+*Next technical step: use hydrological data to find water sampling sites that are downstream of fire sites*
+
+
+- **What are you thinking about doing next with your team? Long-term, short-term?**
+    - *Short term*:
+    - Slack channel
+    - 1 pager for ESIIL newsletter
+    - *Long term*:
+    - Published paper
+- **What’s missing: what resources, people, data sets, etc. does your team need?**
+    - Time!
+    - More training and/or expertise on tech systems/infrastructure
+    - Human impact data, land cover before 2000
