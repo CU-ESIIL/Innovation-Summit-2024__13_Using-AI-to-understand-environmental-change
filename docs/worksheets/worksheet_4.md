@@ -10,6 +10,9 @@ Select one or more people from your group to give a final report back. You will 
 - **Research Question:**
     - How do wildfire severity, human activity, and environmental factors effect water quality downstream from fire sites?
 - **One interesting graphic/finding:**
+### Systems diagram:
+![image](https://github.com/CU-ESIIL/Innovation-Summit-2024__13_Using-AI-to-understand-environmental-change/assets/124633666/fdcb852d-e15b-46ed-a319-187b3253162d)
+
 ### Visualizing recent fires and available water quality sampling sites within the study area:
 ![image](https://github.com/CU-ESIIL/Innovation-Summit-2024__13_Using-AI-to-understand-environmental-change/assets/124633666/55154320-46c6-4cf5-92e8-e16327c49471)
 
