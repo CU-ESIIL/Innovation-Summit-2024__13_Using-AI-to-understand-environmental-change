@@ -9,6 +9,9 @@ Select one or more people from your group to give a final report back. You will 
     - Wildfire AI
 - **Research Question:**
     - How do wildfire severity, human activity, and environmental factors effect water quality downstream from fire sites?
+ 
+Motivation: Using machine learning (AI) approaches to answer novel, difficult questions about how combined factors influence key ecosystem metrics is an important aspect of understanding complex environmental systems. Understanding these systems is crucial to managing them sustainably and increasing their resilience. Machine learning offers an approach to model and understand these complexities, paving the way for action. 
+
 - **One interesting graphic/finding:**
 ### Systems diagram:
 ![image](https://github.com/CU-ESIIL/Innovation-Summit-2024__13_Using-AI-to-understand-environmental-change/assets/124633666/fdcb852d-e15b-46ed-a319-187b3253162d)
